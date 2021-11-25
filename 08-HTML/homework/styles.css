@@ -1,0 +1,22 @@
+.divClass{
+    text-align: center;
+}
+h1{
+    color:rgb(23, 46, 4);
+}
+#thirdDiv{
+    border:solid 10px red;
+    padding:50px;
+    background-color: black;
+    height:600px;
+    width:500px;
+    color:green;
+}
+#spanId{
+    margin: 50px;
+    font-size: 18px;
+    color:red;
+}
+img{
+    width: 400px;
+}
